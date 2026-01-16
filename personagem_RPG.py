@@ -43,5 +43,7 @@ while True:
         print(resultado)
     finalizacao = input("Você deseja criar outro personagem?: ")
     if finalizacao in ['não', 'n', 'nao']:
+        print('Ok, até mais! : )')
 
         break
+
